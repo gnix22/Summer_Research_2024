@@ -1,0 +1,3 @@
+# Overview
+This is a repository containing all of the tidied code from summer research I was apart of. I would like to note that this is code that I have not previously ever had in a repository and only stored locally. I have only recently learned how to set up repositories, and thus I want to begin putting previous code on here, this being the start. 
+For those curious, the research was based on using the T-RY framework, introduced by Dr. Ayman Alzaatreh. In essence, we take 3 different probability models, and composite them together, giving us the ability to create flexible statistical models and better describe complex data.
