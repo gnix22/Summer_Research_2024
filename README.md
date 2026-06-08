@@ -23,5 +23,9 @@ Most of the skills I gained from this research came from points where I faced ob
 move forward, in turn also allowing for patience to be gained from this. All appreciation is given to those who helped out with the 
 research, and I appreciate everyone who views this repository. Thanks.
 
-
+## Data
+All data that was used in application can be found with the following links:
+- https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
+- https://www.kaggle.com/datasets/kanchana1990/ev-battery-qc-synthetic-defect-dataset
+- https://archive.ics.uci.edu/dataset/53/iris
 
